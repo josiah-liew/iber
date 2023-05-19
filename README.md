@@ -1,2 +1,2 @@
-# iber
+# IBERxGS
 Repo for IBERxGS program 
